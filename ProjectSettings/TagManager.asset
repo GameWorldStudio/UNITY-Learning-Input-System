@@ -4,13 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Health
-  - Ennemy
-  - Shield
-  - Chest
-  - LeftHand
-  - Item
-  - Inventory
+  - Input
   layers:
   - Default
   - TransparentFX
@@ -18,7 +12,7 @@ TagManager:
   - 
   - Water
   - UI
-  - Ground
+  - 
   - 
   - 
   - 
